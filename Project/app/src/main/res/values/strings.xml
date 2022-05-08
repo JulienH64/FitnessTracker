@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Workout Project</string>
+    <string name="app_title">Fitness Tracker</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="past_workouts">Past Workouts</string>
+    <string name="exercise_list">Exercise List</string>
+    <string name="routine_list">Routine List</string>
+    <string name="previous_month">-</string>
+    <string name="next_month">-</string>
+    <string name="mon_year">Mon Year</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="month_day_year">Month Day, Year</string>
+    <string name="time">Time</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="reps_weight_rest">Reps, Weight, Rest</string>
+    <string name="statistics_from">From:\u0020</string>
+    <string name="statistics_exercise_name">Exercise Name</string>
+    <string name="statistics_exercise">Exercise:\u0020</string>
+    <string name="statistics_end_date">End Date</string>
+    <string name="statistics_to">To:\u0020</string>
+    <string name="statistics_start_date">Start Date</string>
+    <string name="next_time">-</string>
+    <string name="prev_time">-</string>
+    <string name="pick_start_date">Pick Start Date</string>
+    <string name="pick_end_date">Pick End Date</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hollowlog.fitnesstracker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Fitness Tracker"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FitnessTracker">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".StartWorkout"
+            android:label="Start New Workout" />
+
+        <activity
+            android:name=".MuscleGroupExerciseActivity"
+            android:label="Exercise List" />
+
+        <activity
+            android:name=".ViewEditExercises"
+            android:label="View/Edit Exercise" />
+
+        <activity
+            android:name=".EditExerciseListItem"
+            android:label="Exercise Item" />
+
+        <activity
+            android:name=".LoginScreen"
+            android:label="Login Screen" />
+
+        <activity
+            android:name=".RegisterUser"
+            android:label="Register User" />
+
+        <activity
+            android:name=".RoutineList"
+            android:label="Edit Routines" />
+
+        <activity
+            android:name=".NewRoutine"
+            android:label="Create Routines" />
+
+        <activity
+            android:name=".EditRoutine"
+            android:label="Edit Exercises in Routines" />
+
+        <activity
+            android:name=".PastWorkouts"
+            android:label="View Past Workouts" />
+
+        <activity
+            android:name=".PastWorkoutDay"
+            android:label="Workout Day" />
+
+        <activity
+            android:name=".Statistics"
+            android:label="Workout Day" />
+
+
+    </application>
+
+</manifest>

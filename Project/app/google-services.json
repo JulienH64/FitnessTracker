@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391580179057",
+    "project_id": "workouttracker-e721b",
+    "storage_bucket": "workouttracker-e721b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391580179057:android:93db4f3547c4c299ad99d0",
+        "android_client_info": {
+          "package_name": "com.hollowlog.fitnesstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391580179057-gdsham0enhtoaq92g17n570rmcfibacf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQx8q2ZC-veY66Ef70I844EnsXlzXJF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391580179057-gdsham0enhtoaq92g17n570rmcfibacf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
